@@ -1,2 +1,15 @@
-# gitcheatsheet
-Personal cheat sheet for all the stuff I can't seem to remember
+# Git Cheat Sheet
+
+##Local branches
+###Rename
+
+```
+git branch -m oldName newName
+```
+
+### Push local branch to remote
+
+```
+git push -u origin localBranchName
+```
+
