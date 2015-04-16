@@ -13,3 +13,8 @@ git branch -m oldName newName
 git push -u origin localBranchName
 ```
 
+###Find out where your repo is hosted
+
+```
+git remote -v
+```
