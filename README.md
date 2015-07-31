@@ -18,3 +18,9 @@ git push -u origin localBranchName
 ```
 git remote -v
 ```
+
+##Remote branches
+
+###Delete remote branch
+
+git push origin --delete <branchName>
